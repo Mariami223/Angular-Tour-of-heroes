@@ -54,3 +54,7 @@ app-heroes {
   flex-direction: column;
   align-items: center;
 }
+app-hero-detail {
+  display: flex;
+  justify-content: center;
+}

@@ -5,7 +5,7 @@ h1 {
 nav {
   display: flex;
   justify-content: center;
-  gap: 20px;
+  gap: 5em;
 }
 nav a {
   padding: 1rem;
